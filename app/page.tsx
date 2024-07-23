@@ -20,7 +20,7 @@ export default function Page() {
 />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
           <p
-      className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
+            className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
             >
               
           </p>
